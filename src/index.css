@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.genre-tag {
+  border: 1px solid black;
+  padding: 0.5rem;
+}
+
+.anime-list-item {
+  border: 1px solid green;
+  margin: 0.5rem;
+}
